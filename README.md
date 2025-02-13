@@ -30,8 +30,7 @@ This project demonstrates how to deploy **Azure Sentinel** as a **Security Infor
 - Example KQL Query:
   ```kql
   SecurityEvent
-  | where EventID == 4624
-  | where AccountType == "User"
+  | where Activity contains "success" and Account !contains "system"
   ```
 
 ### 6️⃣ **Monitor SIEM Alerts**
