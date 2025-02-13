@@ -51,6 +51,6 @@ This project demonstrates how to deploy **Azure Sentinel** as a **Security Infor
 🔹 Integrate **Microsoft Defender** for endpoint security  
 
 ## Author
-Tanish Rathore
-https://tanishrathore.github.io
+Tanish Rathore | 
+https://tanishrathore.github.io | 
 https://www.linkedin.com/in/tanish-rathore
